@@ -1,7 +1,7 @@
-# Welcome to FoodCoopSystem
+# Witamy w FoodCoopSystem
 ![FoodCoopSystem](http://www.foodcoop.pl/images/logo.png)
 
-[![Build Status](https://travis-ci.org/FoodCoopSystem/foodcoopsystem.svg)](https://travis-ci.org/FoodCoopSystem/foodcoopsystem)
+POLKSI
 
 FoodCoop System is an open source group ordering and billing system based on Drupal Commerce (Drupal 7) and PHP language.
 
