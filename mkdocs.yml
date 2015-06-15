@@ -5,4 +5,4 @@ pages:
   - 'Development': 'development.md'
 theme: readthedocs
 site_author: ""
-repo_url: https://github.com/FoodCoopSystem/foodcoopsystem
+repo_url: https://github.com/FoodCoopSystem/foodcoopsystem-docs
