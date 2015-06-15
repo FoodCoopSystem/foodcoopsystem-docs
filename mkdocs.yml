@@ -1,4 +1,4 @@
-site_name: FoodCoopSystem docs
+site_name: FoodCoopSystem
 pages:
   - 'Home': 'index.md'
   - 'Installation': 'install.md'
