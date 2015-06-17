@@ -1,2 +1,2 @@
-# foodcoopsystem-docs
-foodcoopsystem-docs
+# Source for documentation on:
+http://foodcoop-system-docs.readthedocs.org/
