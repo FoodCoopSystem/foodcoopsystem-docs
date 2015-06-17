@@ -1,2 +1,2 @@
 # Source of documentation
-You can read it on: http://foodcoop-system-docs.readthedocs.org/
+You can read full version on: http://foodcoop-system-docs.readthedocs.org/
