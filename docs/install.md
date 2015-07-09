@@ -26,3 +26,21 @@ Before you start make sure you have
     1. Run `drush vdel preprocess_css`
     1. Run `drush cc all`
     1. Set **admin** (UID 1) password to your desire one `drush upwd admin --password=secr3tPass`
+
+## Installation (automated version)
+    1. Prepare your environement. You can use our [docker image](https://github.com/FoodCoopSystem/docker) for that task.
+    2. `cd` to dir with your codebase. 
+    3. Add file `app/sites/default/local.settings.php` file and add database details to that file. Example file:
+```
+<?php
+
+$databases['default']['default'] = array(
+  'driver' => 'mysql',
+  'database' => 'foodcoop',
+  'username' => 'root',
+  'password' => 'root',
+  'host' => 'db',
+  'prefix' => '',
+);
+```
+    4. Execute build script: `./scripts/rebuild_directory_local.sh`
