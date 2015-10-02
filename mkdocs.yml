@@ -1,8 +1,8 @@
 site_name: FoodCoopSystem
 pages:
   - 'Home': 'index.md'
-  - 'Installation': 'install.md'
   - 'Development': 'development.md'
+  - 'Old version': 'prototype-install.md'
 theme: readthedocs
 site_author: ""
 repo_url: https://github.com/FoodCoopSystem/foodcoopsystem-docs
