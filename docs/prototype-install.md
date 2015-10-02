@@ -1,8 +1,8 @@
-## Intro
+## Old version - Intro
 
 To install FCS first you need to build it. This will be automatead in near future.
 
-## Requirements
+## Old version - Requirements
 
 Before you start make sure you have
 
@@ -12,7 +12,7 @@ Before you start make sure you have
 > You can test is on \*nix machine with `which` command. E.g.: `which git`. This should output full path to git command. If there is nothing your system doesn't have it.
 
 
-## Installation
+## Old version - Installation
 
 * Clone repository
     * `cd` to dir where you want to makie app directory
@@ -27,7 +27,7 @@ Before you start make sure you have
     1. Run `drush cc all`
     1. Set **admin** (UID 1) password to your desire one `drush upwd admin --password=secr3tPass`
 
-## Installation (automated version)
+## Old version - Installation (automated version)
  * Prepare your environement. You can use our [docker image](https://github.com/FoodCoopSystem/docker) for that task.
  * `cd` to dir with your codebase. 
  * Add file `app/sites/default/local.settings.php` file and add database details to that file. Example file:
