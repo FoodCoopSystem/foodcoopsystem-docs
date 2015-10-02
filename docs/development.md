@@ -12,5 +12,10 @@ We decide to use docker as our main development enviroment. Please read instruct
 1. Make [pull request](https://help.github.com/articles/creating-a-pull-request/) to FoodCoopSystem
 1. Wait for response
 
+## Installing
+
+ To install aplication please run install.sh script.
+
+
 ## About versioning
 Our versioning is following Semantic <a href="http://semver.org/" target="_blank">Versioning 2.0.0</a>.
